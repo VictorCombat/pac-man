@@ -1,0 +1,19 @@
+nom:Niveau 7
+meilleurscore:0
+nbcolonne:20
+nbligne:15
+M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M
+M-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-M
+M-C-C-C-C-C-C-C-C-C-F2-C-C-C-C-C-C-C-C-M
+M-C-C-C-S-C-C-C-C-C-C-C-C-C-C-C-C-C-C-M
+M-C-C-C-C-G-G-G-G-C-C-C-G-G-C-C-C-C-C-M
+M-C-C-C-C-G-G-G-G-C-C-C-C-G-G-C-C-C-C-M
+M-C-C-C-C-G-G-G-C-G-C-C-C-C-C-C-C-C-F1-M
+M-C-C-C-C-G-G-C-C-C-C-G-C-C-C-C-C-C-C-M
+M-C-C-C-C-G-G-C-C-C-C-C-C-C-C-C-C-C-C-M
+M-C-F3-C-C-G-C-C-P-C-C-C-C-C-C-C-C-C-C-M
+M-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-M
+M-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-M
+M-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-M
+M-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-S-C-M
+M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M
