@@ -1,7 +1,7 @@
 <p align="center">
     <img src="img/pacman.PNG" alt="Logo" width="800" height="500">
 
-  <h1 align="center">Pac-Man</h1>
+  <h1 align="center"> <span style="color: yellow"> Pac-Man </span></h1>
 
   <p align="center">
     <br />
@@ -16,9 +16,9 @@
     <a href="#contact">Contact</a>
     <br>
     <br>
-    <a href="https://www.linkedin.com/in/victor-combat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://github.com/VictorCombat/VictorCombat" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="mailto:victor.cmbt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/victor-combat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
+  <a href="https://github.com/VictorCombat/VictorCombat" target="_blank"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:victor.cmbt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
   </p>
 </p>
 
@@ -58,9 +58,9 @@ As part of my university training, in the 3rd year of a Computer Science license
 ## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-combat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/VictorCombat/VictorCombat" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:victor.cmbt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/victor-combat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
+  <a href="https://github.com/VictorCombat/VictorCombat" target="_blank"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:victor.cmbt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
 </p>
 
 ##
