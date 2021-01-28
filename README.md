@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="img/pacman.png" alt="Logo" width="200" height="200">
+    <img src="img/pacman.PNG" alt="Logo" width="800" height="500">
 
-  <h3 align="center">Pac-Man</h3>
+  <h1 align="center">Pac-Man</h1>
 
   <p align="center">
     <br />
@@ -21,6 +21,8 @@
     <a href="mailto:victor.cmbt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
 </p>
+
+<br>
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
